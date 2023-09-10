@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Adjust the Graphics settings to a lower quality level. Lowering the resolution and reducing other graphical effects can significantly boost your FP",
+   "photo1":"https://iili.io/J9rZNMF.webp"},
+  {"desc2":"Experiment with different settings to find the right balance between graphics quality and performance","photo2":"https://iili.io/J9rZwn1.webp"},
+  {"desc3":"Outdated graphics drivers can be a significant bottleneck in your gaming experience. Make sure to update your graphics card drivers regularly to benefit from performance enhancements and bug fixes","photo3":"https://iili.io/J9rZhZP.webp"},
+  {"desc4":"Running multiple background applications can consume system resources and negatively impact your game's performance. Close unnecessary apps and processes to free up CPU and RAM","photo4":"https://iili.io/J9rZXwB.webp"},
+  {"desc5":"If you're comfortable with it and have appropriate cooling solutions, overclocking your CPU and GPU can provide a substantial FPS boost. However, proceed with caution, as improper overclocking can damage your hardware","photo5":"https://iili.io/J9rZO6g.webp"},
+  {"descd":"Several third-party software programs are designed to optimize your gaming experience by prioritizing system resources for games. Programs like Razer Cortex and MSI Afterburner can help you get more FPS in Standoff 2","photod":"https://iili.io/J9rZkFa.webp"}
    ]
  
 }
